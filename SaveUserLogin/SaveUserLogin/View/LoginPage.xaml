@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SaveUserLogin.View.LoginPage" BackgroundColor="White">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" Spacing="10" Margin="30">
+            <ActivityIndicator Color="Black" IsRunning="True" IsVisible="{Binding IsBusy}" HorizontalOptions="CenterAndExpand"/>
+            <StackLayout HorizontalOptions="FillAndExpand" Spacing="0">
+                <Label Text="Email" FontSize="Small" TextColor="Black"/>
+                <Entry FontSize="Medium" HorizontalOptions="FillAndExpand" TextColor="Black" Text="{Binding Email}"/>
+            </StackLayout>
+            <StackLayout HorizontalOptions="FillAndExpand" Spacing="0">
+                <Label Text="Senha" FontSize="Small" TextColor="Black"/>
+                <Entry FontSize="Medium" HorizontalOptions="FillAndExpand" IsPassword="True" TextColor="Black" Text="{Binding Senha}"/>
+            </StackLayout>
+            <Button Text="Login" BackgroundColor="AliceBlue" Command="{Binding LoginCommand}" BorderColor="Black" TextTransform="None"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

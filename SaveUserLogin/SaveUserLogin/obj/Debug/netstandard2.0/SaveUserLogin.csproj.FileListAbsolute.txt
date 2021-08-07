@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\bin\Debug\netstandard2.0\SaveUserLogin.deps.json
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\bin\Debug\netstandard2.0\SaveUserLogin.dll
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\bin\Debug\netstandard2.0\ref\SaveUserLogin.dll
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\bin\Debug\netstandard2.0\SaveUserLogin.pdb
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\SaveUserLogin.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\SaveUserLogin.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\SaveUserLogin.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\SaveUserLogin.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\SaveUserLogin.dll
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\ref\SaveUserLogin.dll
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\SaveUserLogin.pdb
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\Diego\Desktop\Preferences\SaveUserLogin\SaveUserLogin\SaveUserLogin\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
